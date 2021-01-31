@@ -1,6 +1,7 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+## Test headline feature
+-[] This is how it should be 
+-[] one more
+
++ some more content
++ some more content 
+---------------------------
